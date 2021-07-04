@@ -1,3 +1,17 @@
+# custom ignores
+test_imgs/
+mahotas/
+calibration/*.c
+calibration/*.cpp
+Profile.prof
+profile.svg
+*.xlsx
+*.hdf5
+*.h5
+*.svg
+program.prof
+test.html
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
