@@ -17,8 +17,7 @@ processor = GridProcessor(path, '463nm')
 
 2. Calculate the average distance among grid lines (nanometers per pixel)
 ```
-path = 'C:\\Users\\08_01615.tif'
-processor = GridProcessor(path, '463nm')
+print(processor.get_scalar())
 ```
 
 ## GridIdentifier Usage
